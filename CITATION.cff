@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+message: 'If you use this assignment, please cite it using these metadata.'
+authors:
+    name: Delft University of Technology
+title: 'MUDE assignment 2026-2027: WS 2.1'
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: Van der Meer
+    given-names: Frans
+  url: 'https://github.com/MUDE-2026/WS2.1' 
+  title: 'MUDE assignment 2026-2027: WS 2.1'
+  institution:
+    name: 'Delft University of Technology'
+  license: CC-BY-4.0
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
+  copyright: '© 2026 MUDE from Delft University of Technology'
+  languages:
+    - en
+  contact:
+  - email: MUDE-CEG@tudelft.nl
+    name: 'MUDE teaching team from Delft University of Technology'
